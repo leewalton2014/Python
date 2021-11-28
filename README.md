@@ -1,5 +1,5 @@
 # Python
-Random backups for python scripts
+Backups for python scripts
 
 ## Projects in progress
 - Spark SQL FOR BIG DATA
